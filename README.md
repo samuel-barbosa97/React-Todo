@@ -19,10 +19,16 @@
    Projeto em ReactJS, trabalhando em uma Lista de Tarefas, utilizando-se das manipulações de estados com o useState do React.
 </p>
 
+<hr />
+
+<div align="left">
+    
+## Preview:
+    
 <img src="![todo](https://user-images.githubusercontent.com/89155684/137346534-d4104e41-ab27-4e51-8bde-41f480c810e0.png)
 " alt="to-do list">
-
-<hr />
+    
+</div>    
 
 <div align="left">
 
