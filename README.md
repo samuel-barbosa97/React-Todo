@@ -1,44 +1,34 @@
-# To-do with React
+<h1 align="left">
+<br>
+    <img 
+        src="https://media-exp1.licdn.com/dms/image/C4D12AQGtubYC23MpjA/article-cover_image-shrink_720_1280/0/1617319885551?e=1635984000&v=beta&t=b7zp2cX9QsH-puFqSbVOjcfGHNoB7aDq5QGx3AK7Sh8" 
+        alt="React" 
+        width="120"
+    />
+<br>
+</h1>
 
-This project was made in React during a challenge called "5 Projetos em 5 Dias" by [B7Web](https://b7web.com.br).
+<p align="left">
+    Clique no link a seguir para acessar a aplicação: 
+    <strong><a href="https://todo-42cf8jbln-samuel-barbosa97.vercel.app/" target="_blank">React To-do List</a></strong>
+</p>
 
-## First Steps
+<p align="left">
+   Projeto em ReactJS, trabalhando em uma Lista de Tarefas, utilizando-se das manipulações de estados com o useState do React.
+</p>
 
-`npm install`
+<hr />
 
-## Available Scripts
+<div align="left">
 
-In the project directory, you can run:
+## Tecnologias utilizadas:
 
-### `npm start`
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>  
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+</div>
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+<hr />
